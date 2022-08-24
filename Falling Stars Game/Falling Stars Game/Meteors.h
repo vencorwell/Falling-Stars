@@ -21,8 +21,8 @@ public:
 	//Renders stars to the screen
 	void render(SDL_Renderer* renderer, Texture& meteorTexture);
 
-	//Gets collision circle
-	Circle& getCollider() {return m_Collider;}
+	//Gets collision circle (Not being used)
+	//Circle& getCollider() {return m_Collider;}
 
 	//Position getters
 	int getPosX() { return floor(m_PosX); }

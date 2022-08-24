@@ -12,7 +12,6 @@ struct Circle
 	int r;
 };
 
-
 class Stars
 {
 public:
@@ -29,8 +28,8 @@ public:
 	//Renders stars to the screen
 	void render(SDL_Renderer *renderer, Texture &starsTexture);
 
-	//Gets collision circle
-	Circle &getCollider();
+	//Gets collision circle (Not being used)
+	//Circle &getCollider();
 
 	//Position getters
 	int getPosX() { return floor(m_PosX); }

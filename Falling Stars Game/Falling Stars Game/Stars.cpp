@@ -53,10 +53,10 @@ void Stars::render(SDL_Renderer* renderer, Texture& starsTexture)
 	}
 }
 
-Circle& Stars::getCollider()
-{
-	return m_Collider;
-}
+//Circle& Stars::getCollider()
+//{
+//	return m_Collider;
+//}
 
 void Stars::shiftColliders()
 {
