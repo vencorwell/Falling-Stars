@@ -16,3 +16,7 @@ When an asteroid hits the player, the sound effect that is played is a cut versi
 
 <a href = "https://www.zapsplat.com/music/fast-swing-whoosh-into-a-dull-impact-or-thud-version-1/">Fast swing, whoosh into a dull impact or thud. Version 1 - from zapsplat.com</a>
 
+
+
+### August 2024 Update:
+This was my very first game project. Created during the 2020 Covid lockdown, I was able to learn a lot about SDL, colliders, and other aspects of making a game. Looking at it now, I feel the code could be cleaned up a bit, but I'm going to leave it as it is and retire this project.
